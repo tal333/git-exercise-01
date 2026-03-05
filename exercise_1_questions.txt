@@ -14,4 +14,5 @@ Answer: School
 Answer: 7 
 
 5. What's the closest planet to the sun?
-Answer: 
+Answer:Mercury
+ 
